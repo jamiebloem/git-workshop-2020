@@ -2,3 +2,11 @@ body {
     background-color: black;
     color: antiquewhite;
 }
+
+h1 {
+    align-content: center;
+}
+
+ul {
+    list-style-type: square;
+}
